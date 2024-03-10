@@ -134,7 +134,7 @@ def loop():
             os.system("""
             cd
             rm -f -r Ip-Tracker
-            https://github.com/akashblackhat
+            https://github.com/Mercy1ok
 
             """)
 
